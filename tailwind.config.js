@@ -28,8 +28,6 @@ export default {
           DEFAULT: "hsl(var(--destructive))",
           foreground: "hsl(var(--destructive-foreground))",
         },
-      },
-      colors: {
         primary: {
           DEFAULT: '#6366f1',
           light: '#818cf8',
