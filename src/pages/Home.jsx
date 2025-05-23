@@ -62,7 +62,7 @@ const Home = () => {
       {/* Feature Highlights */}
       <div className="mt-12 sm:mt-16 lg:mt-20">
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8 sm:mb-12 text-surface-800 dark:text-surface-200">
-          Why Choose Taskify?
+          Why Choose Taskify 2?
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 lg:gap-8">
