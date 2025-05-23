@@ -27,7 +27,7 @@ function App() {
                     <ApperIcon name="CheckSquare" className="w-5 h-5 text-white" />
                   </div>
                   <h1 className="text-xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                    TaskFlow
+                    Tasker
                   </h1>
                 </div>
                 
