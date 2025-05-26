@@ -63,6 +63,7 @@ const Home = () => {
       <div className="mt-12 sm:mt-16 lg:mt-20">
         <h2 className="text-2xl sm:text-3xl font-bold text-center mb-8 sm:mb-12 text-surface-800 dark:text-surface-200">
           Why Choose Taskify 7?
+
         </h2>
 
         
